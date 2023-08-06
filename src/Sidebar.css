@@ -1,0 +1,12 @@
+.Sidebar{
+    flex: 0.2;
+    
+}
+
+.Sidebar > hr{
+    height: 1px;
+    border: 0px;
+    background-color: lightgray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
